@@ -43,7 +43,7 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "I am a passionate data analyst who plays with R, Python, SQL, HTML, CSS, JavaScript, Power BI. I used these languages to build this website. Of course, I am still continuously learning. I am also a photography and music enthusiast."
+		bio = "I am a passionate data analyst who plays with R, Python, SQL, HTML, CSS, JavaScript, Power BI. I work around these languages to build this website. Of course, I am still continuously learning. I am also a photography and music enthusiast."
 
 		[[params.about.skills]]
 			name = "Exploring new things"
