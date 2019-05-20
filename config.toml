@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Ryan LYP"
 theme = "hugo-artists-theme"
