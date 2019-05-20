@@ -1,0 +1,6 @@
+![](img/work/proj-2/img1.jpg)
+![](img/work/proj-2/img2.jpg)
+![](img/work/proj-2/img3.jpg)
+![](img/work/proj-2/img4.jpg)
+![](img/work/proj-2/img5.jpg)
+![](img/work/proj-2/img6.jpg)

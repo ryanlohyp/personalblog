@@ -1,0 +1,16 @@
+# Section title
+title = "Explore"
+
+[[list]]
+	avatar = "infj.png"
+	name = "Advocate"
+	title = "INFJ-T"
+	quote = "I'm having the Advocate Personality. Advocates have an inborn sense of idealism and morality, taking concrete steps to realize their goals and make a lasting positive impact. [Press here to find out your personality.](https://www.16personalities.com)"
+	logo = "test.png"
+
+[[list]]
+	avatar = "datacamp.png"
+	name = "Datacamp"
+	title = "Learn Data Science"
+	quote = "I learn programming skills in R, Python, SQL and Git through this platform since my time as a university student. For those who want to learn programming but don't know where to start, I recommend you to try this online learning school, IT'S FREE! [Press here to learn.](https://www.datacamp.com/)"
+	logo = "test2.png"
